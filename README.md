@@ -6,7 +6,7 @@ The project involved developing a smart thermostat system capable of monitoring 
 
 What did you do particularly well?
 
-One area where I excelled was in integrating multiple hardware components and ensuring compatibility across different platforms. I meticulously implemented the communication protocolS, which were crucial for the sensors and peripheral interactions. My attention to detail in the setup of GPIOs for user input and feedback mechanisms also ensured that the system was user-friendly and responsive.
+One area where I excelled was in integrating multiple hardware components and ensuring compatibility across different platforms. I implemented the communication protocols, which were crucial for the sensors and peripheral interactions. My attention to detail in the setup of GPIOs for user input and feedback mechanisms also ensured that the system was user-friendly and responsive.
 
 Where could you improve?
 
